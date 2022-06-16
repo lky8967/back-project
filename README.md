@@ -28,7 +28,7 @@
 
  - frontend : HTML, CSS, javascript
 
- - backend : Java , spring
+ - backend : Java8 , spring
 
  - db : mySql
 
