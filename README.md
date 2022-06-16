@@ -75,8 +75,8 @@
 ---
  
 ## API 구성
-
-### 로그인 api  (JWT)
+https://lky8967.tistory.com/77
+<!-- ### 로그인 api  (JWT)
 
 <!-- *> - 메인페이지인 index.html 파일과 등록된 게시글의 정보를 mongoDB에서 가져와 rendering 해준다.* -->
 
@@ -431,3 +431,4 @@ public boolean loveUp(Long noticeId, Long memberId) {
         - image
         - day
         - username(id)
+ -->
