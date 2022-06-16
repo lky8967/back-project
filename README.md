@@ -84,25 +84,9 @@
 
 ## 관련 링크
 https://www.notion.so/5-TIL-9d235b6269c147d5976d07e89bbebd63
-<!-- 
-## 프로젝트 정보
 
- - 혼자 코딩을 연습하며 til를 일기처럼 자유롭게 적는 서비스를 제공하는 웹 사이트입니다
 
- - 개발기간 : 22.6.10-6.16
----
-## Stack
-
- - frontend : HTML, CSS, javascript
-
- - backend : Java , spring
-
- - db : mySql
-
- - react.js 
-<!-- ---
 ## 결과물
-
 ---
 ## 상세기능
 ### 메인페이지
