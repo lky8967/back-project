@@ -1,6 +1,6 @@
 # back-project
 
-<table>
+<!-- <table>
     <tr>
         <th colspan=5>💻🙎‍♂스터디원</th>
     </tr>
@@ -11,7 +11,7 @@
         <td><a href='https://github.com/ParkSungGyu1'>박성규</a></td>
         <td><a href='https://github.com/puppyGugu'>이병수</a></td>
 </table>
-
+ -->
 <br>
 
 
